@@ -26,7 +26,8 @@ html {
 }
 
 .btn-ghost:hover {
-  background-color: rgba(180, 220, 255, .5);
+  background-color: blue;
+  color: #fff;
 }
 
 .masthead {
@@ -60,7 +61,7 @@ html {
 }
 
 .masthead a:hover {
-  background-color: rgba(180, 220, 255, .3);
+  background-color: blue;
 }
 
 .techniques {
