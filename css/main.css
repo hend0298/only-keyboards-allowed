@@ -29,14 +29,14 @@ html {
 }
 
 .btn-ghost {
-  background-color: #ff938A;
-  border-color: #E65045;
+  background-color: #ff938a;
+  border-color: #e65045;
 }
 
 .btn-ghost:hover {
   background-color: #66231f;
   color: #fff;
-  border-color: #ff938A;
+  border-color: #ff938a;
 }
 
 .masthead {
